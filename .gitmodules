@@ -1,3 +1,6 @@
 [submodule "fedora"]
 	path = fedora
 	url = git@github.com:renich/gce-images-fedora.git
+[submodule "centos"]
+	path = centos
+	url = git@github.com:renich/gce-images-centos.git
